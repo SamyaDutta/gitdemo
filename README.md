@@ -1,2 +1,2 @@
 # gitdemo
-demo on git by samya
+demo on git by samya dutta
